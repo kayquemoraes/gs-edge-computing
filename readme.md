@@ -1,6 +1,6 @@
 # Aplicativo de Combate ao Desperdício Alimentar
 
-Nosso objetivo é criar uma solução inovadora que conecta produtores, varejistas, restaurantes e organizações de combate à fome, visando reduzir o desperdício de alimentos e alimentar aqueles que mais precisam. Com a utilização do Arduino, podemos criar um sistema inteligente e automatizado que monitora e controla as condições dos alimentos, garantindo que eles sejam utilizados de forma adequada, reduzindo assim o desperdício alimentar.
+Nosso objetivo é criar uma solução que conecta produtores, varejistas, restaurantes e organizações de combate à fome, visando reduzir o desperdício de alimentos e alimentar aqueles que mais precisam. Com a utilização do Arduino, podemos criar um sistema inteligente e automatizado que monitora e controla as condições dos alimentos, garantindo que eles sejam utilizados de forma adequada, reduzindo assim o desperdício alimentar.
 ___
 
 ## Funcionalidades principais
