@@ -44,4 +44,4 @@ Após a instalação do Arduíno IDE, você deve seguir os seguintes passos:
 ___
 
 ## Video Explicativo
-Link do vídeo: 
+Link do vídeo: https://drive.google.com/file/d/1CBY1bXahEJxt3EVognNSzytSYRMTe0uw/view?usp=sharing
